@@ -1,0 +1,14 @@
+C:\Users\paolo.preti\source\repos\ConsoleAppReteNeurale\ConsoleAppReteNeurale\bin\Debug\net8.0\ConsoleAppReteNeurale.exe
+C:\Users\paolo.preti\source\repos\ConsoleAppReteNeurale\ConsoleAppReteNeurale\bin\Debug\net8.0\ConsoleAppReteNeurale.deps.json
+C:\Users\paolo.preti\source\repos\ConsoleAppReteNeurale\ConsoleAppReteNeurale\bin\Debug\net8.0\ConsoleAppReteNeurale.runtimeconfig.json
+C:\Users\paolo.preti\source\repos\ConsoleAppReteNeurale\ConsoleAppReteNeurale\bin\Debug\net8.0\ConsoleAppReteNeurale.dll
+C:\Users\paolo.preti\source\repos\ConsoleAppReteNeurale\ConsoleAppReteNeurale\bin\Debug\net8.0\ConsoleAppReteNeurale.pdb
+C:\Users\paolo.preti\source\repos\ConsoleAppReteNeurale\ConsoleAppReteNeurale\obj\Debug\net8.0\ConsoleAppReteNeurale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paolo.preti\source\repos\ConsoleAppReteNeurale\ConsoleAppReteNeurale\obj\Debug\net8.0\ConsoleAppReteNeurale.AssemblyInfoInputs.cache
+C:\Users\paolo.preti\source\repos\ConsoleAppReteNeurale\ConsoleAppReteNeurale\obj\Debug\net8.0\ConsoleAppReteNeurale.AssemblyInfo.cs
+C:\Users\paolo.preti\source\repos\ConsoleAppReteNeurale\ConsoleAppReteNeurale\obj\Debug\net8.0\ConsoleAppReteNeurale.csproj.CoreCompileInputs.cache
+C:\Users\paolo.preti\source\repos\ConsoleAppReteNeurale\ConsoleAppReteNeurale\obj\Debug\net8.0\ConsoleAppReteNeurale.dll
+C:\Users\paolo.preti\source\repos\ConsoleAppReteNeurale\ConsoleAppReteNeurale\obj\Debug\net8.0\refint\ConsoleAppReteNeurale.dll
+C:\Users\paolo.preti\source\repos\ConsoleAppReteNeurale\ConsoleAppReteNeurale\obj\Debug\net8.0\ConsoleAppReteNeurale.pdb
+C:\Users\paolo.preti\source\repos\ConsoleAppReteNeurale\ConsoleAppReteNeurale\obj\Debug\net8.0\ConsoleAppReteNeurale.genruntimeconfig.cache
+C:\Users\paolo.preti\source\repos\ConsoleAppReteNeurale\ConsoleAppReteNeurale\obj\Debug\net8.0\ref\ConsoleAppReteNeurale.dll
