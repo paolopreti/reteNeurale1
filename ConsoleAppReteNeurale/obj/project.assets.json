@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paolo.preti\\source\\repos\\ConsoleAppReteNeurale\\ConsoleAppReteNeurale\\ConsoleAppReteNeurale.csproj",
+      "projectUniqueName": "C:\\Users\\paolo.preti\\Documents\\provaReteNeurale\\reteNeurale1\\ConsoleAppReteNeurale\\ConsoleAppReteNeurale.csproj",
       "projectName": "ConsoleAppReteNeurale",
-      "projectPath": "C:\\Users\\paolo.preti\\source\\repos\\ConsoleAppReteNeurale\\ConsoleAppReteNeurale\\ConsoleAppReteNeurale.csproj",
+      "projectPath": "C:\\Users\\paolo.preti\\Documents\\provaReteNeurale\\reteNeurale1\\ConsoleAppReteNeurale\\ConsoleAppReteNeurale.csproj",
       "packagesPath": "C:\\Users\\paolo.preti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paolo.preti\\source\\repos\\ConsoleAppReteNeurale\\ConsoleAppReteNeurale\\obj\\",
+      "outputPath": "C:\\Users\\paolo.preti\\Documents\\provaReteNeurale\\reteNeurale1\\ConsoleAppReteNeurale\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

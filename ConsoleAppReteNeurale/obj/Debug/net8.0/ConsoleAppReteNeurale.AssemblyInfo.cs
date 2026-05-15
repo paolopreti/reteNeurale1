@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppReteNeurale")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a7eb9031e9b348bdc7ba8b8a34bc93bf99a693f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppReteNeurale")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppReteNeurale")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
